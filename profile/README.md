@@ -5,12 +5,19 @@ Wir entwickeln Produkte, Tools und Templates für die Zukunft – modular, perfo
 
 ---
 
-## 🏗️ Repositories
+## 📂 Unsere Bereiche
 
-- 🌐 **evs-website** → Next.js 15 Website (Frontend)  
-- 📦 **products** → Templates & Starterkits  
-- 🗄️ **evs-cms** → Strapi v5 + Postgres (Headless CMS)  
-- 🧭 **evs-main** → Control-Plane & Orchestrator  
+- 🛠️ **Products** – Templates, Starterkits & Cloud-Apps  
+  → [Übersicht ansehen](https://github.com/evervibe-studios/products)  
+
+- 🧩 **Tools** – Developer-Utilities & Open Source Libraries  
+  *(Coming Soon)*  
+
+- 🗄️ **Infrastructure** – CMS, Orchestrator & Plattform-Komponenten  
+  *(Coming Soon)*  
+
+- 🔬 **Research & AI** – Experimente & Innovationen rund um AI & Cloud  
+  *(Coming Soon)*  
 
 ---
 
