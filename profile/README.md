@@ -1,7 +1,7 @@
 # 🌌 Evervibe Studios
 
 🚀 **Next-gen digital experiences with AI, Web & Cloud**  
-Wir bauen Produkte, Tools und Templates für die Zukunft – offen, modular, performant.  
+Wir entwickeln Produkte, Tools und Templates für die Zukunft – modular, performant und sicher.  
 
 ---
 
@@ -16,17 +16,17 @@ Wir bauen Produkte, Tools und Templates für die Zukunft – offen, modular, per
 
 ## ✨ Mission
 
-- 🧩 Modular & offen → alles basiert auf Standards (Next.js, Strapi, Postgres, Tailwind)  
-- ⚡ Schnell → optimiert für Vercel Edge, ISR & moderne CI/CD  
-- 🔐 Sicher → DSGVO, Security-Best-Practices & AI-Guardrails  
-- 🌍 Global → i18n-Ready & für jeden nutzbar  
+- 🧩 Modular & offen → basierend auf Standards (Next.js, Strapi, Postgres, Tailwind)  
+- ⚡ High-Performance → optimiert für Vercel Edge, ISR & moderne CI/CD  
+- 🔐 Sicherheit & Datenschutz → DSGVO, Security-Best-Practices & AI-Guardrails  
+- 🌍 Global → Internationalisierung & Barrierefreiheit by default  
 
 ---
 
 ## 📬 Kontakt
 
+- 📧 Mail: **info@evervibestudios.com**  
 - 🌐 Website: [evervibe-studios.github.io](https://evervibe-studios.github.io) *(Coming Soon)*  
-- 📧 Mail: **hello@evervibe.studio**  
 - 🐙 GitHub: [@evervibe-studios](https://github.com/evervibe-studios)  
 
 ---
